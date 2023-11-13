@@ -5,15 +5,16 @@ Location: Bratislava, Slovakia
 Email: belayaolga222@gmail.com  
 GitHab: [alaella](https://github.com/alaella)
 ***
+
 ## Skills  
 + HTML, CSS, JavaScript  
 + git, GitHub  
+
 ## Education  
 RS Schools course «JavaScript/Front-end. Stage 1» (in progress)
+
 ## Languages  
-+ English: C1  
-+ German: C1  
++ English: advanced  
++ German: advanced  
 + Russian: native  
-+ Slovak: C1
-
-
++ Slovak: advanced
