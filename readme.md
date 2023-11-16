@@ -1,1 +1,1 @@
-https://alaella.github.io/rsschool-cv/cv
+https://alaella.github.io/rsschool-cv/
